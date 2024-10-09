@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String index() {
-        return "Hello World with Nguyễn Đình Vượng ";
+        return "Hello World with Vượng học code mỗi ngày ";
     }
 }
